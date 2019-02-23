@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Deneme\OOP_Class_Object\OOP_Polymorphism\Polymorphism\bin\Debug\Polymorhism.exe.config
+C:\Users\Admin\Desktop\Deneme\OOP_Class_Object\OOP_Polymorphism\Polymorphism\bin\Debug\Polymorhism.exe
+C:\Users\Admin\Desktop\Deneme\OOP_Class_Object\OOP_Polymorphism\Polymorphism\bin\Debug\Polymorhism.pdb
+C:\Users\Admin\Desktop\Deneme\OOP_Class_Object\OOP_Polymorphism\Polymorphism\obj\Debug\Polymorphism.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Deneme\OOP_Class_Object\OOP_Polymorphism\Polymorphism\obj\Debug\Polymorhism.Polymorphism.resources
+C:\Users\Admin\Desktop\Deneme\OOP_Class_Object\OOP_Polymorphism\Polymorphism\obj\Debug\Polymorhism.Properties.Resources.resources
+C:\Users\Admin\Desktop\Deneme\OOP_Class_Object\OOP_Polymorphism\Polymorphism\obj\Debug\Polymorphism.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Deneme\OOP_Class_Object\OOP_Polymorphism\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Deneme\OOP_Class_Object\OOP_Polymorphism\Polymorphism\obj\Debug\Polymorhism.exe
+C:\Users\Admin\Desktop\Deneme\OOP_Class_Object\OOP_Polymorphism\Polymorphism\obj\Debug\Polymorhism.pdb
