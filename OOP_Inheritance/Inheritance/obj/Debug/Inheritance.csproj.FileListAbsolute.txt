@@ -1,0 +1,19 @@
+c:\users\furkan.alaybeg\documents\visual studio 2017\Projects\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+c:\users\furkan.alaybeg\documents\visual studio 2017\Projects\Inheritance\Inheritance\obj\Debug\Inheritance.Form1.resources
+c:\users\furkan.alaybeg\documents\visual studio 2017\Projects\Inheritance\Inheritance\obj\Debug\Inheritance.Properties.Resources.resources
+c:\users\furkan.alaybeg\documents\visual studio 2017\Projects\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.GenerateResource.Cache
+c:\users\furkan.alaybeg\documents\visual studio 2017\Projects\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+c:\users\furkan.alaybeg\documents\visual studio 2017\Projects\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+c:\users\furkan.alaybeg\documents\visual studio 2017\Projects\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+c:\users\furkan.alaybeg\documents\visual studio 2017\Projects\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+c:\users\furkan.alaybeg\documents\visual studio 2017\Projects\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\Admin\Desktop\Deneme\OOP_Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Admin\Desktop\Deneme\OOP_Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Admin\Desktop\Deneme\OOP_Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Admin\Desktop\Deneme\OOP_Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Deneme\OOP_Inheritance\Inheritance\obj\Debug\Inheritance.Form1.resources
+C:\Users\Admin\Desktop\Deneme\OOP_Inheritance\Inheritance\obj\Debug\Inheritance.Properties.Resources.resources
+C:\Users\Admin\Desktop\Deneme\OOP_Inheritance\Inheritance\obj\Debug\Inheritance.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Deneme\OOP_Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Deneme\OOP_Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Admin\Desktop\Deneme\OOP_Inheritance\Inheritance\obj\Debug\Inheritance.pdb

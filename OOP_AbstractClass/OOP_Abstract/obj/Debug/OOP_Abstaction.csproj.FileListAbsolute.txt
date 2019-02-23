@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\OOP_AbstractClass\OOP_Abstract\bin\Debug\OOP_Abstaction.exe.config
+C:\Users\Admin\Desktop\OOP_AbstractClass\OOP_Abstract\bin\Debug\OOP_Abstaction.exe
+C:\Users\Admin\Desktop\OOP_AbstractClass\OOP_Abstract\bin\Debug\OOP_Abstaction.pdb
+C:\Users\Admin\Desktop\OOP_AbstractClass\OOP_Abstract\obj\Debug\OOP_Abstaction.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\OOP_AbstractClass\OOP_Abstract\obj\Debug\OOP_Abstaction.Form1.resources
+C:\Users\Admin\Desktop\OOP_AbstractClass\OOP_Abstract\obj\Debug\OOP_Abstaction.Properties.Resources.resources
+C:\Users\Admin\Desktop\OOP_AbstractClass\OOP_Abstract\obj\Debug\OOP_Abstaction.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\OOP_AbstractClass\OOP_Abstract\obj\Debug\OOP_Abstaction.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OOP_AbstractClass\OOP_Abstract\obj\Debug\OOP_Abstaction.exe
+C:\Users\Admin\Desktop\OOP_AbstractClass\OOP_Abstract\obj\Debug\OOP_Abstaction.pdb
