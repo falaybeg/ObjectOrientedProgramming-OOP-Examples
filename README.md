@@ -1,5 +1,5 @@
 In this repository was tried to create a example for every OOP concept. 
-The repository consist of following topics:
+The repository consists of following topics:
 
 - Class/Object
 - Encapsulation
