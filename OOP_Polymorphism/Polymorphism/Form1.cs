@@ -53,7 +53,14 @@ namespace Polymorhism
             Human human = new Human();
 
             human.dateOfBirth = dateTimePicker.Value;
-            MessageBox.Show("Human\n\nAge :  "+human.Age().ToString());
+            if (human.dateOfBirth > DateTime.Now)
+            {
+                MessageBox.Show("Entered date cannot be bigger than now datetime !");
+            }
+            else
+            {
+                MessageBox.Show("Human\n\nAge :  " + human.Age().ToString());
+            }
         }
 
         private void StudentAge_Click(object sender, EventArgs e)
@@ -61,7 +68,15 @@ namespace Polymorhism
             Student student = new Student();
 
             student.dateOfBirth = dateTimePicker.Value;
-            MessageBox.Show("Student\n\nMy Total Lived Days :  "+student.Age().ToString());
+
+            if (student.dateOfBirth > DateTime.Now)
+            {
+                MessageBox.Show("Entered date cannot be bigger than now datetime !");
+            }
+            else
+            {
+                MessageBox.Show("Student\n\nMy Total Lived Days :  " + student.Age().ToString());
+            }
         }
 
         private void Polymorphism_Load(object sender, EventArgs e)

@@ -22,6 +22,7 @@ namespace Polymorhism
         // According to day number birthday was calculated 
         public override int Age()
         {
+           
             int totalDays = Convert.ToInt16((DateTime.Now - this.dateOfBirth).TotalDays);
             return totalDays;
         }
