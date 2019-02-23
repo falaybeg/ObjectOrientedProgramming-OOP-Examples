@@ -1,5 +1,5 @@
-In this repository was tried to create a example for every OOP concept. 
-The repository consists of following topics:
+In this repository was tried to create a example for every Object Oriented Programming (OOP) concepts. 
+The repository consists of following OOP topics:
 
 - Class/Object
 - Encapsulation
