@@ -1,0 +1,6 @@
+c:\users\furkan.alaybeg\documents\visual studio 2017\Projects\BankAccountManager\BankAccountManager\obj\Debug\BankAccountManager.csprojResolveAssemblyReference.cache
+c:\users\furkan.alaybeg\documents\visual studio 2017\Projects\BankAccountManager\BankAccountManager\bin\Debug\BankAccountManager.exe.config
+c:\users\furkan.alaybeg\documents\visual studio 2017\Projects\BankAccountManager\BankAccountManager\bin\Debug\BankAccountManager.exe
+c:\users\furkan.alaybeg\documents\visual studio 2017\Projects\BankAccountManager\BankAccountManager\bin\Debug\BankAccountManager.pdb
+c:\users\furkan.alaybeg\documents\visual studio 2017\Projects\BankAccountManager\BankAccountManager\obj\Debug\BankAccountManager.exe
+c:\users\furkan.alaybeg\documents\visual studio 2017\Projects\BankAccountManager\BankAccountManager\obj\Debug\BankAccountManager.pdb
